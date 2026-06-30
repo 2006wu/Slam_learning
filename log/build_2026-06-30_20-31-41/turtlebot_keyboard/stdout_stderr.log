@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/turtlebot_keyboard/turtlebot_keyboard.egg-info
+writing ../../build/turtlebot_keyboard/turtlebot_keyboard.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot_keyboard/turtlebot_keyboard.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot_keyboard/turtlebot_keyboard.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot_keyboard/turtlebot_keyboard.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot_keyboard/turtlebot_keyboard.egg-info/top_level.txt
+writing manifest file '../../build/turtlebot_keyboard/turtlebot_keyboard.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlebot_keyboard/turtlebot_keyboard.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot_keyboard/turtlebot_keyboard.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/TurtleBot/build/turtlebot_keyboard/build
+creating /home/user/TurtleBot/build/turtlebot_keyboard/build/lib
+creating /home/user/TurtleBot/build/turtlebot_keyboard/build/lib/turtlebot_keyboard
+copying turtlebot_keyboard/keyboard_controller.py -> /home/user/TurtleBot/build/turtlebot_keyboard/build/lib/turtlebot_keyboard
+copying turtlebot_keyboard/__init__.py -> /home/user/TurtleBot/build/turtlebot_keyboard/build/lib/turtlebot_keyboard
+running install
+running install_lib
+creating /home/user/TurtleBot/install/turtlebot_keyboard/lib/python3.12/site-packages/turtlebot_keyboard
+copying /home/user/TurtleBot/build/turtlebot_keyboard/build/lib/turtlebot_keyboard/keyboard_controller.py -> /home/user/TurtleBot/install/turtlebot_keyboard/lib/python3.12/site-packages/turtlebot_keyboard
+copying /home/user/TurtleBot/build/turtlebot_keyboard/build/lib/turtlebot_keyboard/__init__.py -> /home/user/TurtleBot/install/turtlebot_keyboard/lib/python3.12/site-packages/turtlebot_keyboard
+byte-compiling /home/user/TurtleBot/install/turtlebot_keyboard/lib/python3.12/site-packages/turtlebot_keyboard/keyboard_controller.py to keyboard_controller.cpython-312.pyc
+byte-compiling /home/user/TurtleBot/install/turtlebot_keyboard/lib/python3.12/site-packages/turtlebot_keyboard/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/user/TurtleBot/install/turtlebot_keyboard/share/ament_index
+creating /home/user/TurtleBot/install/turtlebot_keyboard/share/ament_index/resource_index
+creating /home/user/TurtleBot/install/turtlebot_keyboard/share/ament_index/resource_index/packages
+copying resource/turtlebot_keyboard -> /home/user/TurtleBot/install/turtlebot_keyboard/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/TurtleBot/install/turtlebot_keyboard/share/turtlebot_keyboard
+running install_egg_info
+Copying ../../build/turtlebot_keyboard/turtlebot_keyboard.egg-info to /home/user/TurtleBot/install/turtlebot_keyboard/lib/python3.12/site-packages/turtlebot_keyboard-0.1.0-py3.12.egg-info
+running install_scripts
+Installing keyboard_controller script to /home/user/TurtleBot/install/turtlebot_keyboard/lib/turtlebot_keyboard
+writing list of installed files to '/home/user/TurtleBot/build/turtlebot_keyboard/install.log'

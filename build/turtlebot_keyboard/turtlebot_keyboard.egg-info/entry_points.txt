@@ -1,0 +1,2 @@
+[console_scripts]
+keyboard_controller = turtlebot_keyboard.keyboard_controller:main

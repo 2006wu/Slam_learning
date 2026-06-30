@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: turtlebot-keyboard
-Version: 0.1.0
-Summary: Fixed-speed keyboard controller for TurtleBot3.
-Maintainer: user
-Maintainer-email: user@example.com
-License: Apache-2.0
